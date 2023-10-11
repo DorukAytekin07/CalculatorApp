@@ -91,7 +91,6 @@ export default class Calculator extends React.Component{
         })
     }
     render(){
-        console.log(this.state.formula)
         return(
             <div className="center">
                 <div className="grid-container">
